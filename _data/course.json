@@ -1,0 +1,13 @@
+[{
+        "title": "Developer Course",
+        "description": "This is the basic course for developer",
+        "category": "60cb3f2bc8e686bdee3c7c5a",
+        "cost": 10000
+    },
+    {
+        "title": "Designer Course",
+        "description": "This is the basic course for designer",
+        "category": "60cb3f2bc8e686bdee3c7c6b",
+        "cost": 20000
+    }
+]

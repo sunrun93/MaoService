@@ -1,0 +1,22 @@
+[{
+        "_id": "b716619822624398add9c91c5dad2e9f",
+        "name": "Admin Account",
+        "email": "admin@gmail.com",
+        "role": "user",
+        "password": "123456"
+    },
+    {
+        "_id": "d969bb2c5cd7415d9894ebb076271642",
+        "name": "Reina",
+        "email": "reina@gmail.com",
+        "role": "user",
+        "password": "123456"
+    },
+    {
+        "_id": "23e4552be6a54c64a8fc5d64ffc2f2d8",
+        "name": "Nancy",
+        "email": "nancy@gmail.com",
+        "role": "publisher",
+        "password": "123456"
+    }
+]
